@@ -1,0 +1,80 @@
+
+                                                                        ====================================
+                                                                             LITERALS AND IDENTIFIERS
+                                                                        ====================================
+==============
+**LITERALS**
+===============
+      For every python program we must pass input values to program that input values is called literals,In python we have 4 types of literals.....
+they are:=
+                                                                 1.Integer literals.
+                                                                 2.float literals.
+                                                                 3.string literals.
+                                                                 4.boolean literals.
+    =======================
+     1)INTEGER LITERALS:=
+    ========================
+             A literals in integer format.
+          ---------
+             ex:=     a=25,b=36(Where 25,36 are integer literals)
+          --------
+    =======================
+     1)FLOAT LITERALS:=
+    ========================
+             A literals in decimals format.
+          ---------
+             ex:=     a=25.76,b=100.28(Where 25.76,100.28 are float literals)
+          --------
+     =======================
+     1)STRING LITERALS:=
+     ========================
+             A literals in string(group of characters) format.
+          ---------
+             ex:=     a="25",b="hi"(Where 25,hi are integer literals)
+          --------
+     =======================
+     1)BOOLEAN LITERALS:=
+     ========================
+             A literals in TRUE or FALSE values.
+          ---------
+             ex:=     a=TRUE,b=FALSE (Where TRUE and FALSE are BOOLEAN literals)
+          --------
+======================================================================================X====================================================================================================
+                                                                              ============================
+                                                                                IDENTIFIERS OR VARIABLES:=
+                                                                              ============================
+
+                    
+The values is used to identifies (or) used to access the literals they are known as identifiers (or) variables.
+the value of identifiers is changed at during execution of program so they also called variables.
+we have some rules to define the identifiers,
+===============
+they are:=
+===============
+1)Always identifiers starts with Alphabets only.
+     ex:
+  -----------
+                 Accountnumber=12345
+                 carcost=2000000
+2)identifiers doesn't starts with DIGITS(0 to 9).
+    ex:
+------------
+                 1car,(NOT VALID)
+                38house,(NOT VALID)
+                carnumber1=36(VALID)
+3)Keywords doesn't used as identiers.
+   ex:
+-------------
+               for ="hello...python."(NOT VALID)
+               raise= 36(NOT VALID)
+4)Any specific symbols are not allowed exept underscore(_).
+   ex:
+--------------
+              Account_number=12345((VALID))
+              _car_cost=2000000(VALID)
+              @name="NavaSree"(NOT VALID)
+5)Whitespaces are not allowed.
+   ex:
+--------------
+              car name="cyclone"(NOT VALID)
+                        
